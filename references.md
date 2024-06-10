@@ -1,5 +1,5 @@
-conflict1
 
-conflict2
+# References
 
-conflict3
+* octocat 1 😈
+
